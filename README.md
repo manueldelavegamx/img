@@ -1,2 +1,2 @@
 # img
-Imágenes para news y webs
+Imágenes
